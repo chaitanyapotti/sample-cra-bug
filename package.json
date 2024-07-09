@@ -49,6 +49,10 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-transform-class-properties": "^7.24.7",
+    "@babel/plugin-transform-classes": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-react": "^7.24.7",
     "buffer": "^6.0.3",
     "process": "^0.11.10",
     "react-app-rewired": "^2.2.1"
